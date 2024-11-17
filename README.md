@@ -38,8 +38,5 @@
         </ul>
     </section>
     
-    <footer>
-        <p>Esta página será alojada en un servidor gratuito.</p>
-    </footer>
 </body>
 </html>
