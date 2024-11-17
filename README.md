@@ -32,7 +32,7 @@
     <section>
         <h2>Colegas</h2>
         <ul>
-            <li><a href="https://www.colega1.com">Colega 1</a></li>
+            <li><a href="https://wilbert-sanchez-hualpa.github.io/ucsp/">Wilbert-Sanchez</a></li>
             <li><a href="https://www.colega2.com">Colega 2</a></li>
             <li><a href="https://www.colega3.com">Colega 3</a></li>
         </ul>
