@@ -35,6 +35,13 @@
             <li><a href="https://wilbert-sanchez-hualpa.github.io/ucsp/">Wilbert-Sanchez</a></li>
             <li><a href="https://www.colega2.com">Colega 2</a></li>
             <li><a href="https://www.colega3.com">Colega 3</a></li>
+            <li><a href="https://www.colega4.com">Colega 3</a></li>
+            <li><a href="https://www.colega5.com">Colega 3</a></li>
+            <li><a href="https://www.colega6.com">Colega 3</a></li>
+            <li><a href="https://www.colega7.com">Colega 3</a></li>
+            <li><a href="https://www.colega8.com">Colega 3</a></li>
+            <li><a href="https://www.colega9.com">Colega 3</a></li>
+            <li><a href="https://www.colega10.com">Colega 3</a></li>
         </ul>
     </section>
     
