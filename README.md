@@ -19,13 +19,13 @@
     </section>
     
     <section>
-        <h2>Cursos Estudiados</h2>
+        <h2>Cursos en Estudio</h2>
         <ul>
             <li>Analisis Financiero</li>
             <li>Matematica financiera</li>
-            <li>Introduccion a la filosofia</li>
-            <li>Calculo en una variable</li>
-            <li>Analisis Financiero</li>
+            <li>Antropologia, Filosofia y Teologia</li>
+            <li>Calculo en varias variable</li>
+            <li>Logica y Gnoseologia</li>
         </ul>
     </section>
     
@@ -33,15 +33,22 @@
         <h2>Colegas</h2>
         <ul>
             <li><a href="https://wilbert-sanchez-hualpa.github.io/ucsp/">Wilbert-Sanchez</a></li>
-            <li><a href="https://www.colega2.com">Colega 2</a></li>
-            <li><a href="https://www.colega3.com">Colega 3</a></li>
-            <li><a href="https://www.colega4.com">Colega 3</a></li>
-            <li><a href="https://www.colega5.com">Colega 3</a></li>
-            <li><a href="https://www.colega6.com">Colega 3</a></li>
-            <li><a href="https://www.colega7.com">Colega 3</a></li>
-            <li><a href="https://www.colega8.com">Colega 3</a></li>
+            <li><a href="https://flabiatunquipa.github.io/mi-pagina-personal/">Flabia-Tunquipa</a></li>
+            <li><a href="https://eduardomaque.github.io/Eduardo-Sebastian-Mendoza-Maque/">Eduardo-Maque</a></li>
+            <li><a href="https://saccbrc-06.github.io/SebastianCastillo.github-io/">Sebastian-Castillo</a></li>
+            <li><a href="http://rommyna.github.io">Rommyna-Zuñiga</a></li>
+            <li><a href="https://eduardoucsp.github.io/Eduardo-Fabian-Tapia-Rodriguez-Page.github.io/">Eduardo-Tapia</a></li>
+            <li><a href="https://madymads.github.io/">Maricel-Vilca</a></li>
+            <li><a href="https://marielaesmeraldaperaltaramos.github.io/Mariela-Esmeralda-Peralta-Ramos/">Mariela-Peralta</a></li>
+            <li><a href="https://fabian0rtiz.github.io/Fabian-Marcelo-Ortiz-Molina/">Fabian-Ortiz</a></li>
+            <li><a href="https://danvizcarra.github.io/franciscovizcarra.github.io/">Francisco-Vizcarra</a></li>
+            <li><a href="https://leonardoloayza.github.io/">Leonardo-Loayza</a></li>
+            <li><a href="https://ultrones09.github.io/Gadiel-Mateo-Gonzalez-Pamo/">Mateo-Gonzalez</a></li>
+            <li><a href="https://fernandaraquelcruzponce.neocities.org/">Fernanda-Cruz</a></li>
+            <li><a href="https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/">Yadhira-Coyuri</a></li>
+            <li><a href="https://allisonsantandermamani.neocities.org/">Allison-Santander</a></li>
             <li><a href="https://www.colega9.com">Colega 3</a></li>
-            <li><a href="https://www.colega10.com">Colega 3</a></li>
+            <li><a href="https://www.colega9.com">Colega 3</a></li>
         </ul>
     </section>
     
