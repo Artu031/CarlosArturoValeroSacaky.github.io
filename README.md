@@ -17,7 +17,11 @@
         <h2>Carrera Profesional</h2>
         <p>Administracion de Negocios</p>
     </section>
-    
+
+    <section>
+        <h2>Descripcion personal</h2>
+        <p>Soy una persona que le gusta el dibujo. Mi interes en la carrera de Administracion de Negocios, surgio ya que a partir de experiencias de familiares cercanos y su entorno en negocios, tuve gran impacto. Mi interes de linea de carrera es fines de Finanzas, me interes la parte de manejo de capital en el desenvolvimiento de empresa. Planeo seguir y ampliar mis estudios acabada la carrera.</p>
+    </section>
     <section>
         <h2>Cursos en Estudio</h2>
         <ul>
@@ -25,7 +29,7 @@
             <li>Matematica financiera</li>
             <li>Antropologia, Filosofia y Teologia</li>
             <li>Calculo en varias variable</li>
-            <li>Logica y Gnoseologia</li>
+            <li>Estadistica y Probabilidades</li>
         </ul>
     </section>
     
