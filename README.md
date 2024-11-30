@@ -51,8 +51,9 @@
             <li><a href="https://fernandaraquelcruzponce.neocities.org/">Fernanda-Cruz</a></li>
             <li><a href="https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/">Yadhira-Coyuri</a></li>
             <li><a href="https://allisonsantandermamani.neocities.org/">Allison-Santander</a></li>
-            <li><a href="https://www.colega9.com">Colega 3</a></li>
-            <li><a href="https://www.colega9.com">Colega 3</a></li>
+            <li><a href="https://luis-alberto-saenz.neocities.org/">Luis-Alberto</a></li>
+            <li><a href="https://sofiavenriquezr.github.io/Mi-p-gina-web/#">Sofia-Enriquez</a></li>
+            
         </ul>
     </section>
     
